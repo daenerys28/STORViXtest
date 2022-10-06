@@ -31,4 +31,4 @@ First Remove the VM
 
 Then remove the item path
 
-`PS C:\WINDOWS\system32> Remove-Item -Path C:\HyperVvm\STORViXtest.vhdx`![image](https://user-images.githubusercontent.com/103170131/194235672-1712aa80-28f0-4539-b0d8-b58270bce569.png)
+`PS C:\WINDOWS\system32> Remove-Item -Path C:\HyperVvm\STORViXtest.vhdx`
